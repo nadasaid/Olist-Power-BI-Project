@@ -30,25 +30,30 @@ An interactive, enterprise-grade business intelligence solution analyzing **~100
 * **Design & UX:** Modern navigation interface with icon-based routing across all strategic and operational modules.
 * **Coverage Scope:** Sept 2016 through August 2018.
 
+  ![Home Page](screenshots/landing_page.png)
+
 ### 2. 📈 Executive Overview
 * **Revenue Trajectory:** Monthly revenue trend revealing massive post-2016 growth, stabilization above $1.0M/month in 2018, and seasonality.
 * **Geographic Distribution:** State-by-state breakdown showing severe concentration in **São Paulo (SP)** (> $5.8M), followed by **Rio de Janeiro (RJ)** and **Minas Gerais (MG)**.
 * **Executive Metrics:** High-level cards tracking Total Revenue ($15.84M), Volume (99K Orders), AOV ($159.33), and MoM % variance.
+![Executive Overview](screenshots/executive_overview.png)
 
 ### 3. 👥 Customer & Product Growth
 * **Retention Dynamics:** Donut visualization identifying **96.88% (93K) New Customers** vs. **3.12% (3K) Repeat Customers**, reflecting a high customer acquisition cost (CAC) dependency.
 * **Category Contribution:** Revenue ranking led by *Health & Beauty*, *Watches & Gifts*, *Bed, Bath & Table*, *Sports & Leisure*, and *Computers & Accessories*.
 * **Top 10 Product Matrix:** Granular SKU-level performance table detailing Units Sold, Total Revenue, and Average Unit Price.
+![Customer & Product Growth](screenshots/growth.png)
 
 ### 4. 🚚 Delivery Performance & Customer Satisfaction
 * **Logistical Disparities:** Delivery delay ranking across Brazilian states highlighting severe operational drag in northern and northeastern regions (**AL: 22.76%**, **MA: 16.34%**, **PI: 14.95%** vs. **SP: 5.52%**).
 * **Delay Bucketing:** Volume categorization across *On-Time / Early* (~92K), *1–7 Days Late* (~4K), *8–15 Days Late* (~2K), and *>15 Days Late* (~1K).
 * **Correlation Analysis:** Direct correlation showing review ratings cratering from **4.2 (On-Time)** down to **1.7 (Late Buckets)**.
+![Delivery Performance & Satisfaction](screenshots/delivery.png)
 
 ### 5. 🏪 Seller Management & Performance Ranking
 * **Seller Composite Scoring:** Normalized multi-criteria matrix evaluating merchants across revenue, average rating, and dispatch punctuality.
 * **Revenue vs. Rating Dual-Axis:** Identifies high-volume sellers at risk of churn or platform suspension due to slipping quality ratings.
-
+![Seller Management & Performance](screenshots/seller_management.png)
 ---
 
 ## 🧠 Core DAX Measures & Logic
